@@ -21,6 +21,7 @@ creatHeroes();
             System.out.println(marvel[i].getName() + " " + marvel[i].getDamage() + " " + marvel[i].getHealth() + " " + marvel[i].getPower());
 
 
+
         }
         return marvel;
     }
